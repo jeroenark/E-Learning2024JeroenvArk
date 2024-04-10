@@ -1,0 +1,7 @@
+body {
+    background-image: url('media/waves.jpg');
+    background-size: cover; /* or specify other background properties as needed */
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
